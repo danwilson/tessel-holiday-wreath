@@ -1,0 +1,8 @@
+{
+  "name": "TesselHolidayWreath",
+  "version": "0.1.0",
+  "description": "Tessel project with neopixels using date to determine an appropriate holiday wreath arrangement",
+  "main": "wreath.js",
+  "author": "Dan Wilson",
+  "license": "MIT"
+}
